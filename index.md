@@ -1,2 +1,2 @@
 # SFCMove ドキュメント
-### [プライバシーポリシー](/privacy-policy)
+### [プライバシーポリシー](/SFCMove-docs/privacy-policy)
